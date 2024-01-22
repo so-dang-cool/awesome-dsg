@@ -8,7 +8,7 @@ Please send PRs with your templates, examples, and articles.
 
 | Generator Language | Markup Language   | Template                                     | Example Site                                 |
 |--------------------|-------------------|----------------------------------------------|----------------------------------------------|
-| POSIX Shell ♥      | HTML ♥            | https://github.com/booniepepper/dsg-posix    | https://booniepepper.github.io/dsg-posix/    |
+| POSIX Shell        | HTML              | https://github.com/booniepepper/dsg-posix    | https://booniepepper.github.io/dsg-posix/    |
 | POSIX Shell        | Markdown (Pandoc) | https://github.com/booniepepper/dsg-posix-md | https://booniepepper.github.io/dsg-posix-md/ |
 | TypeScript         | Markdown (Pandoc) | https://github.com/booniepepper/dsg-ts-md    | https://booniepepper.github.io/dsg-ts-md/    |
 
@@ -16,7 +16,7 @@ Please send PRs with your templates, examples, and articles.
 complexity (e.g. using a build system) are fine on your own projects, but will
 be be rejected here._
 
-## Example DSG sites
+## DSG Site Showcase
 
 Sites using the DSG pattern. Must share the site and the sources, and the site
 content must be not garbage. (No content farms, no NSFW, etc)
