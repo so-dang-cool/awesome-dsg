@@ -21,9 +21,10 @@ be be rejected here._
 Sites using the DSG pattern. Must share the site and the sources, and the site
 content must be not garbage. (No content farms, no NSFW, etc)
 
-| Generator Language | Markup Language   | Site                 | Sources                                      |
-|--------------------|-------------------|----------------------|----------------------------------------------|
-| dt                 | HTML              | https://so.dang.cool | https://github.com/so-dang-cool/so.dang.cool |
+| Generator Language | Markup Language   | Site                                  | Sources                                                |
+|--------------------|-------------------|---------------------------------------|--------------------------------------------------------|
+| dt                 | HTML              | https://so.dang.cool                  | https://github.com/so-dang-cool/so.dang.cool           |
+| POSIX Shell        | Markdown (Pandoc) | https://iam.travishartwell.net/mycmd/ | https://github.com/travisbhartwell/mycmd/tree/work-log |
 
 ## Articles
 
